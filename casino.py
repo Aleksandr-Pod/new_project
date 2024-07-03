@@ -2,7 +2,7 @@ from random import randint
 from time import sleep
 
 i = True # покуда есть деньги, играем
-money = 100
+money = 100 # даём 100 монет
 
 while i:
     bet = input("ваша ставка (1 - чёрное, 2 - красное)")
